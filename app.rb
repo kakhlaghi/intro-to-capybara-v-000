@@ -4,4 +4,3 @@
       erb :index
     end
   end
-
